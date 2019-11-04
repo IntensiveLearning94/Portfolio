@@ -55,7 +55,7 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-    color: #666;
+    color: rbgb(250, 248, 248);
     line-height: 1.5em;
 }
 
@@ -74,7 +74,7 @@ h2 {
 }
 
     h2.alt {
-        color: #888;
+        color: rgb(12, 0, 0);
     }
 
         h2.alt strong {
@@ -169,7 +169,7 @@ br.clear {
 	justify-content: space-between;
 	background: #222629 url("images/overlay.png");
 	box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-	color: #fff;
+	color: rgb(172, 119, 119);
 	height: 100%;
 	left: 0;
 	overflow-y: auto;
@@ -368,7 +368,8 @@ br.clear {
 
 #main>section.one {
 	background-color: #81918E;
-	background-image: url("../../images/banner.jpg");
+	background-image: url("../../images/Hopwas_Woods_Sun.jpg");
+
 }
 
 #main>section.two {
